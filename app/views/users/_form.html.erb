@@ -1,0 +1,11 @@
+<%= form_for @user do |new|%>
+  <%= new.label :username, 'Username:' %><br>
+  <%= new.text_field :username, placeholder:'Your Name' %><br>
+  <%= new.label :email, 'Email:'%><br>
+  <%= new.email_field :email, placeholder: 'test@test.com' %><br>
+  <%= new.label :password, 'Password:' %><br>
+  <%= new.password_field :password, placeholder:'********' %><br>
+
+  <%= new.submit 'Sign in'%>
+<%end%>
+
