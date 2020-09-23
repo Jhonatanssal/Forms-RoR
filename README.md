@@ -3,7 +3,10 @@
 
 ## RoR Project: Forms
 
-This is a form system build with RoR and HTML
+features
+=======
+Building forms using nearly-pure HTML and then graduating to using the helper methods that Rails provides. 
+development
 
 ## Built With
 
@@ -15,8 +18,7 @@ This is a form system build with RoR and HTML
 
 To get a local copy up and running follow these simple example steps:
 
-- Clone the project from [here](https://github.com/jssarrazolaa/ActiveRecord-RoR)
-
+- Clone the project from [here](https://github.com/jssarrazolaa/Forms-RoR)
 
 ### Prerequisites
 
@@ -62,7 +64,7 @@ Run `gem install rubocop`
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/jssarrazolaa/ActiveRecord-RoR/issues).
+Feel free to check the [issues page](https://github.com/jssarrazolaa/Forms-RoR/issues).
 
 ## Show your support
 
@@ -76,6 +78,5 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.
-
 
 “This is part of the Forms Project in The Odin Project’s Ruby on Rails Curriculum. Find it at http://www.theodinproject.com"
