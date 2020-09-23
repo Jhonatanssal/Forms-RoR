@@ -3,7 +3,10 @@
 
 ## RoR Project: Forms
 
+features
+=======
 Building forms using nearly-pure HTML and then graduating to using the helper methods that Rails provides. 
+development
 
 ## Built With
 
@@ -16,7 +19,6 @@ Building forms using nearly-pure HTML and then graduating to using the helper me
 To get a local copy up and running follow these simple example steps:
 
 - Clone the project from [here](https://github.com/jssarrazolaa/Forms-RoR)
-
 
 ### Prerequisites
 
@@ -76,3 +78,5 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.
+
+“This is part of the Forms Project in The Odin Project’s Ruby on Rails Curriculum. Find it at http://www.theodinproject.com"
